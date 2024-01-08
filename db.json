@@ -72,6 +72,13 @@
 			"chargeNo":"MCN-929040-2022",
 			"courtNo":"Court 12B",
 			"importedDt":"23/11/2023"
+		},{
+			"caseNo":"SC-993745-2023",
+			"accussedName":"Eric Masterson",
+			"offence":"Jaywalking",
+			"chargeNo":"MCN-929090-2022",
+			"courtNo":"Court 7B",
+			"importedDt":"13/11/2023"
 		}
 	]
 }
