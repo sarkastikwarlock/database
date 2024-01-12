@@ -19,7 +19,7 @@
 		{
 			"caseNo":"SC-909345-2023",
 			"accussedName":"Ma Wing Chun",
-			"offence":"Assult",
+			"offence":"Assault",
 			"chargeNo":"MCN-909350-2023",
 			"courtNo":"Court 5B",
 			"importedDt":"18/01/2023"
@@ -47,7 +47,7 @@
 		},{
 			"caseNo":"SC-939765-2023",
 			"accussedName":"Don Mario",
-			"offence":"Assult",
+			"offence":"Assault",
 			"chargeNo":"MCN-920360-2022",
 			"courtNo":"Court 9B",
 			"importedDt":"29/04/2022"
@@ -89,7 +89,7 @@
 			"remarks":"LoremIpsum"
 		},
 		{
-			"caseNo":"SC-9051456-2023",
+			"caseNo":"SC-905456-2023",
 			"accussedName":"Max Baxter",
 			"offence":"Kidnapping",
 			"directorate":"Directorate 3",
@@ -100,6 +100,19 @@
 			"courtNo":"Court 11B",
 			"assignedLOs":"Officer 3",
 			"remarks":"Lorem Ipsum"
+		},{
+			"caseNo":"SC-909345-2023",
+			"accussedName":"Ma Wing Chun",
+			"offence":"Assault",
+			"directorate":"Directorate 2",
+			"fllwThruOfcr":"Officer 2",
+			"courtEventName":"Court Event 2",
+			"courtEventDt":"12/12/2023",
+			"courtEventTm":"10:35:00.00",
+			"courtNo":"Court 1B",
+			"importedDt":"18/01/2023",
+			"assignedLOs":"Officer 4",
+			"remarks":"remarksss"
 		}
 	]
 }
