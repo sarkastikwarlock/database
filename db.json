@@ -85,7 +85,7 @@
 			"courtEventDt":"12/12/2023",
 			"courtEventTm":"15:00:00.00",
 			"courtNo":"Court 4A",
-			"assignedLOs":"Officer 2",
+			"assignedCourtLOs":"Officer 2",
 			"remarks":"LoremIpsum"
 		},
 		{
@@ -106,6 +106,54 @@
 			"offence":"Assault",
 			"directorate":"Directorate 2",
 			"fllwThruOfcr":"Officer 2",
+			"courtEventName":"Court Event 2",
+			"courtEventDt":"12/12/2023",
+			"courtEventTm":"10:35:00.00",
+			"courtNo":"Court 1B",
+			"importedDt":"18/01/2023",
+			"assignedCourtLOs":"Officer 4",
+			"remarks":"remarksss"
+		}
+	],
+	"ipByCase":[
+		{
+			"caseNo":"SC-903916-2023",
+			"accussedName":"John Doe",
+			"ipNo":"IP-XX345X-2XXXX",
+			"agencyName":"Agency 1",
+			"ioName":"IO 1",
+			"ioContactNo":"9337XXXX",
+			"directorate":"Directorate 1",
+			"assigenedLOs":"LO 1",
+			"courtEventName":"Court Event 1",
+			"courtEventDt":"12/12/2023",
+			"courtEventTm":"15:00:00.00",
+			"courtNo":"Court 4A",
+			"assignedCourtLOs":"Officer 2",
+			"remarks":"LoremIpsum"
+		},
+		{
+			"caseNo":"SC-905456-2023",
+			"accussedName":"Max Baxter",
+			"ipNo":"IP-22345X-2XXXX",
+			"agencyName":"Agency 3",
+			"ioName":"IO 4",
+			"ioContactNo":"9438XXXX",
+			"directorate":"Directorate 3",
+			"courtEventName":"Court Event 3",
+			"courtEventDt":"12/12/2023",
+			"courtEventTm":"15:00:00.00",
+			"courtNo":"Court 11B",
+			"assignedCourtLOs":"Officer 3",
+			"remarks":"Lorem Ipsum"
+		},{
+			"caseNo":"SC-909345-2023",
+			"accussedName":"Ma Wing Chun",
+			"ipNo":"IP-XX345X-2X00X",
+			"agencyName":"Agency 1",
+			"ioName":"IO 3",
+			"ioContactNo":"9837XXXX",
+			"directorate":"Directorate 2",
 			"courtEventName":"Court Event 2",
 			"courtEventDt":"12/12/2023",
 			"courtEventTm":"10:35:00.00",
