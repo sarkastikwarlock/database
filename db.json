@@ -73,32 +73,5 @@
 			"courtNo":"Court 7B",
 			"importedDt":"13/11/2023"
 		}
-	],
-	"courtEvents":[
-		{
-			"caseNo":"SC-903916-2023",
-			"accussedName":"John Doe",
-			"offence":"Littering",
-			"directorate":"Directorate 1",
-			"fllwThruOfcr":"Officer 1",
-			"courtEventName":"Court Event 1",
-			"courtEventDt":"12/12/2023",
-			"courtEventTm":"15:00:00.00",
-			"courtNo.":"Court 4A",
-			"assignedLOs":"Officer 2",
-			"remarks":"LoremIpsum"
-		},{
-			"caseNo":"SC-905145-2023",
-			"accussedName":"Max Baxter",
-			"offence":"Kidnapping",
-			"directorate":"Directorate 3",
-			"fllwThruOfcr":"Officer 3"
-			"courtEventName":"Court Event 3",
-			"courtEventDt":"12/03/2023",
-			"courtEventTm":"15:00:00.00",
-			"courtNo":"Court 11B",
-			"assignedLOs":"Officer 4",
-			"remarks":"Lorem Ipsum"
-		}
 	]
 }
