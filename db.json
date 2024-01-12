@@ -86,9 +86,8 @@
 			"courtEventTm":"15:00:00.00",
 			"courtNo.":"Court 4A",
 			"assignedLOs":"Officer 2",
-			"remarks":"LoremIpsum",
-		},
-		{
+			"remarks":"LoremIpsum"
+		},{
 			"caseNo":"SC-905145-2023",
 			"accussedName":"Max Baxter",
 			"offence":"Kidnapping",
@@ -99,7 +98,7 @@
 			"courtEventTm":"15:00:00.00",
 			"courtNo":"Court 11B",
 			"assignedLOs":"Officer 4",
-			"remarks":"Lorem Ipsum",
+			"remarks":"Lorem Ipsum"
 		}
 	]
 }
