@@ -265,40 +265,6 @@
 			"courtNo":"Court 4A",
 			"assignedCourtLOs":"Officer 2",
 			"remarks":"LoremIpsum"
-		},
-		{
-			"caseNo":"SC-905456-2023",
-			"accussedName":"Max Baxter",
-			"offence":"Kidnapping",
-			"directorate":"Directorate 3",
-			"assignedLOs":"IO 1",
-			"prosecutionDueDt":"30/10/2023",
-			"psbDueDt":"30/11/2023",
-			"cfdDueDt":"21/12/2023",
-			"submissionsDt":"28/12/2023",
-			"courtEventName":"Court Event 3",
-			"courtEventDt":"30/11/2023",
-			"courtEventTm":"15:00:00.00",
-			"courtNo":"Court 11B",
-			"assignedCourtLOs":"Officer 3",
-			"remarks":"Lorem Ipsum"
-		},
-		{
-			"caseNo":"SC-909345-2023",
-			"accussedName":"Ma Wing Chun",
-			"offence":"Assault",
-			"directorate":"Directorate 2",
-			"assignedLOs":"IO 3",
-			"prosecutionDueDt":"20/10/2023",
-			"psbDueDt":"20/11/2023",
-			"cfdDueDt":"28/11/2023",
-			"submissionsDt":"07/12/2023",
-			"courtEventName":"Court Event 2",
-			"courtEventDt":"20/12/2023",
-			"courtEventTm":"10:35:00.00",
-			"courtNo":"Court 1B",
-			"assignedCourtLOs":"Officer 4",
-			"remarks":"remarksss"
 		}
 	]
 }
