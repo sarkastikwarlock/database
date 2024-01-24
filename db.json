@@ -201,7 +201,8 @@
 			"courtNo":"Court 11B",
 			"assignedCourtLOs":"Officer 3",
 			"remarks":"Lorem Ipsum"
-		},{
+		},
+		{
 			"caseNo":"SC-909345-2023",
 			"accussedName":"Ma Wing Chun",
 			"offence":"Assault",
@@ -217,7 +218,8 @@
 			"courtNo":"Court 1B",
 			"assignedCourtLOs":"Officer 4",
 			"remarks":"remarksss"
-		},{
+		},
+		{
 			"caseNo":"SC-903916-2023",
 			"accussedName":"John Doe",
 			"offence":"Littering",
@@ -250,7 +252,8 @@
 			"courtNo":"Court 11B",
 			"assignedCourtLOs":"Officer 3",
 			"remarks":"Lorem Ipsum"
-		},{
+		},
+		{
 			"caseNo":"SC-909345-2023",
 			"accussedName":"Ma Wing Chun",
 			"offence":"Assault",
@@ -266,7 +269,8 @@
 			"courtNo":"Court 1B",
 			"assignedCourtLOs":"Officer 4",
 			"remarks":"remarksss"
-		},{
+		},
+		{
 			"caseNo":"SC-903916-2023",
 			"accussedName":"John Doe",
 			"offence":"Littering",
@@ -299,7 +303,8 @@
 			"courtNo":"Court 11B",
 			"assignedCourtLOs":"Officer 3",
 			"remarks":"Lorem Ipsum"
-		},{
+		},
+		{
 			"caseNo":"SC-909345-2023",
 			"accussedName":"Ma Wing Chun",
 			"offence":"Assault",
@@ -315,7 +320,8 @@
 			"courtNo":"Court 1B",
 			"assignedCourtLOs":"Officer 4",
 			"remarks":"remarksss"
-		},{
+		},
+		{
 			"caseNo":"SC-903916-2023",
 			"accussedName":"John Doe",
 			"offence":"Littering",
@@ -348,7 +354,8 @@
 			"courtNo":"Court 11B",
 			"assignedCourtLOs":"Officer 3",
 			"remarks":"Lorem Ipsum"
-		},{
+		},
+		{
 			"caseNo":"SC-909345-2023",
 			"accussedName":"Ma Wing Chun",
 			"offence":"Assault",
