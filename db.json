@@ -2,7 +2,7 @@
 	"courtEvents":[
 		{
 			"caseNo":"SC-903916-2023",
-			"accussedName":"John Doe",
+			"accusedName":"John Doe",
 			"offence":"Littering",
 			"directorate":"Directorate 1",
 			"fllwThruOfcr":"Officer 1",
@@ -15,7 +15,7 @@
 		},
 		{
 			"caseNo":"SC-905456-2023",
-			"accussedName":"Max Baxter",
+			"accusedName":"Max Baxter",
 			"offence":"Kidnapping",
 			"directorate":"Directorate 3",
 			"fllwThruOfcr":"Officer 4",
@@ -27,7 +27,7 @@
 			"remarks":"Lorem Ipsum"
 		},{
 			"caseNo":"SC-909345-2023",
-			"accussedName":"Ma Wing Chun",
+			"accusedName":"Ma Wing Chun",
 			"offence":"Assault",
 			"directorate":"Directorate 2",
 			"fllwThruOfcr":"Officer 2",
@@ -43,7 +43,7 @@
 	"ipByCase":[
 		{
 			"caseNo":"SC-903916-2023",
-			"accussedName":"John Doe",
+			"accusedName":"John Doe",
 			"ipNo":"IP-XX345X-2XXXX",
 			"agencyName":"Agency 1",
 			"ioName":"IO 1",
@@ -60,7 +60,7 @@
 		},
 		{
 			"caseNo":"SC-905456-2023",
-			"accussedName":"Max Baxter",
+			"accusedName":"Max Baxter",
 			"ipNo":"IP-22345X-2XXXX",
 			"agencyName":"Agency 3",
 			"ioName":"IO 4",
@@ -76,7 +76,7 @@
 			"remarks":"Lorem Ipsum"
 		},{
 			"caseNo":"SC-909345-2023",
-			"accussedName":"Ma Wing Chun",
+			"accusedName":"Ma Wing Chun",
 			"ipNo":"IP-XX345X-2X00X",
 			"agencyName":"Agency 1",
 			"ioName":"IO 3",
@@ -95,7 +95,7 @@
 	"ccdcDocuments":[
 		{
 			"caseNo":"SC-903916-2023",
-			"accussedName":"John Doe",
+			"accusedName":"John Doe",
 			"offence":"Littering",
 			"directorate":"Directorate 1",
 			"assignedLOs":"IO 1",
@@ -112,7 +112,7 @@
 		},
 		{
 			"caseNo":"SC-905456-2023",
-			"accussedName":"Max Baxter",
+			"accusedName":"Max Baxter",
 			"offence":"Kidnapping",
 			"directorate":"Directorate 3",
 			"assignedLOs":"IO 1",
@@ -129,7 +129,7 @@
 		},
 		{
 			"caseNo":"SC-909345-2023",
-			"accussedName":"Ma Wing Chun",
+			"accusedName":"Ma Wing Chun",
 			"offence":"Assault",
 			"directorate":"Directorate 2",
 			"assignedLOs":"IO 3",
@@ -146,7 +146,7 @@
 		},
 		{
 			"caseNo":"SC-903916-2023",
-			"accussedName":"John Doe",
+			"accusedName":"John Doe",
 			"offence":"Littering",
 			"directorate":"Directorate 1",
 			"assignedLOs":"IO 1",
@@ -163,7 +163,7 @@
 		},
 		{
 			"caseNo":"SC-905456-2023",
-			"accussedName":"Max Baxter",
+			"accusedName":"Max Baxter",
 			"offence":"Kidnapping",
 			"directorate":"Directorate 3",
 			"assignedLOs":"IO 1",
@@ -180,7 +180,7 @@
 		},
 		{
 			"caseNo":"SC-909345-2023",
-			"accussedName":"Ma Wing Chun",
+			"accusedName":"Ma Wing Chun",
 			"offence":"Assault",
 			"directorate":"Directorate 2",
 			"assignedLOs":"IO 3",
@@ -197,7 +197,7 @@
 		},
 		{
 			"caseNo":"SC-903916-2023",
-			"accussedName":"John Doe",
+			"accusedName":"John Doe",
 			"offence":"Littering",
 			"directorate":"Directorate 1",
 			"assignedLOs":"IO 1",
@@ -214,7 +214,7 @@
 		},
 		{
 			"caseNo":"SC-905456-2023",
-			"accussedName":"Max Baxter",
+			"accusedName":"Max Baxter",
 			"offence":"Kidnapping",
 			"directorate":"Directorate 3",
 			"assignedLOs":"IO 1",
@@ -231,7 +231,7 @@
 		},
 		{
 			"caseNo":"SC-909345-2023",
-			"accussedName":"Ma Wing Chun",
+			"accusedName":"Ma Wing Chun",
 			"offence":"Assault",
 			"directorate":"Directorate 2",
 			"assignedLOs":"IO 3",
@@ -248,7 +248,7 @@
 		},
 		{
 			"caseNo":"SC-903916-2023",
-			"accussedName":"John Doe",
+			"accusedName":"John Doe",
 			"offence":"Littering",
 			"directorate":"Directorate 1",
 			"assignedLOs":"IO 1",
