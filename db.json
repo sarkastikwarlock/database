@@ -56,7 +56,12 @@
 			"courtEventTm":"15:00:00.00",
 			"courtNo":"Court 4A",
 			"assignedCourtLOs":"Officer 2",
-			"remarks":"LoremIpsum"
+			"remarks":"LoremIpsum",
+			"ipInDate":"15/05/2024",
+			"ipOutDate":"16/08/2024",
+			"holderOfIp":"Erix Masterson",
+			"ipCalledFor":"IP-XX345X-2XXXX",
+			"whoCalledForIP":"Mr Two"
 		},
 		{
 			"caseNo":"SC-905456-2023",
@@ -73,7 +78,12 @@
 			"courtEventTm":"15:00:00.00",
 			"courtNo":"Court 11B",
 			"assignedCourtLOs":"Officer 3",
-			"remarks":"Lorem Ipsum"
+			"remarks":"Lorem Ipsum",
+			"ipInDate":"10/12/2023",
+			"ipOutDate":"16/01/2024",
+			"holderOfIp":"Joe Jace",
+			"ipCalledFor":"IP-22345X-2XXXX",
+			"whoCalledForIP":"Master Ross"
 		},{
 			"caseNo":"SC-909345-2023",
 			"accusedName":"Ma Wing Chun",
@@ -89,7 +99,12 @@
 			"courtEventTm":"10:35:00.00",
 			"courtNo":"Court 1B",
 			"assignedCourtLOs":"Officer 4",
-			"remarks":"remarksss"
+			"remarks":"remarksss",
+			"ipInDate":"15/05/2023",
+			"ipOutDate":"16/08/2023",
+			"holderOfIp":"Rick Asterson",
+			"ipCalledFor":"IP-XX345X-2X00X",
+			"whoCalledForIP":"Two Maxter"
 		},
 		{
 			"caseNo":"SC-903916-2023",
@@ -106,7 +121,12 @@
 			"courtEventTm":"15:00:00.00",
 			"courtNo":"Court 4A",
 			"assignedCourtLOs":"Officer 2",
-			"remarks":"LoremIpsum"
+			"remarks":"LoremIpsum",
+			"ipInDate":"22/06/2024",
+			"ipOutDate":"25/08/2024",
+			"holderOfIp":"Erix Masterson",
+			"ipCalledFor":"IP-XX345X-2XXXX",
+			"whoCalledForIP":"Joe Black"
 		},
 		{
 			"caseNo":"SC-905456-2023",
@@ -123,7 +143,12 @@
 			"courtEventTm":"15:00:00.00",
 			"courtNo":"Court 11B",
 			"assignedCourtLOs":"Officer 3",
-			"remarks":"Lorem Ipsum"
+			"remarks":"Lorem Ipsum",
+			"ipInDate":"22/06/2024",
+			"ipOutDate":"25/08/2024",
+			"holderOfIp":"Erix Masterson",
+			"ipCalledFor":"IP-XX345X-2XXXX",
+			"whoCalledForIP":"Joe Black"
 		},{
 			"caseNo":"SC-909345-2023",
 			"accusedName":"Ma Wing Chun",
@@ -139,7 +164,12 @@
 			"courtEventTm":"10:35:00.00",
 			"courtNo":"Court 1B",
 			"assignedCourtLOs":"Officer 4",
-			"remarks":"remarksss"
+			"remarks":"remarksss",
+			"ipInDate":"22/06/2024",
+			"ipOutDate":"25/08/2024",
+			"holderOfIp":"Erix Masterson",
+			"ipCalledFor":"IP-XX345X-2XXXX",
+			"whoCalledForIP":"Joe Black"
 		},
 		{
 			"caseNo":"SC-903916-2023",
@@ -156,7 +186,12 @@
 			"courtEventTm":"15:00:00.00",
 			"courtNo":"Court 4A",
 			"assignedCourtLOs":"Officer 2",
-			"remarks":"LoremIpsum"
+			"remarks":"LoremIpsum",
+			"ipInDate":"10/12/2023",
+			"ipOutDate":"16/01/2024",
+			"holderOfIp":"Joe Jace",
+			"ipCalledFor":"IP-22345X-2XXXX",
+			"whoCalledForIP":"Master Ross"
 		},
 		{
 			"caseNo":"SC-905456-2023",
@@ -173,7 +208,12 @@
 			"courtEventTm":"15:00:00.00",
 			"courtNo":"Court 11B",
 			"assignedCourtLOs":"Officer 3",
-			"remarks":"Lorem Ipsum"
+			"remarks":"Lorem Ipsum",
+			"ipInDate":"10/12/2023",
+			"ipOutDate":"16/01/2024",
+			"holderOfIp":"Joe Jace",
+			"ipCalledFor":"IP-22345X-2XXXX",
+			"whoCalledForIP":"Master Ross"
 		},{
 			"caseNo":"SC-909345-2023",
 			"accusedName":"Ma Wing Chun",
@@ -189,7 +229,12 @@
 			"courtEventTm":"10:35:00.00",
 			"courtNo":"Court 1B",
 			"assignedCourtLOs":"Officer 4",
-			"remarks":"remarksss"
+			"remarks":"remarksss",
+			"ipInDate":"10/12/2023",
+			"ipOutDate":"16/01/2024",
+			"holderOfIp":"Joe Jace",
+			"ipCalledFor":"IP-22345X-2XXXX",
+			"whoCalledForIP":"Master Ross"
 		},
 		{
 			"caseNo":"SC-903916-2023",
@@ -206,7 +251,12 @@
 			"courtEventTm":"15:00:00.00",
 			"courtNo":"Court 4A",
 			"assignedCourtLOs":"Officer 2",
-			"remarks":"LoremIpsum"
+			"remarks":"LoremIpsum",
+			"ipInDate":"10/12/2023",
+			"ipOutDate":"16/01/2024",
+			"holderOfIp":"Joe Jace",
+			"ipCalledFor":"IP-22345X-2XXXX",
+			"whoCalledForIP":"Master Ross"
 		},
 		{
 			"caseNo":"SC-905456-2023",
@@ -223,7 +273,12 @@
 			"courtEventTm":"15:00:00.00",
 			"courtNo":"Court 11B",
 			"assignedCourtLOs":"Officer 3",
-			"remarks":"Lorem Ipsum"
+			"remarks":"Lorem Ipsum",
+			"ipInDate":"10/12/2023",
+			"ipOutDate":"16/01/2024",
+			"holderOfIp":"Joe Jace",
+			"ipCalledFor":"IP-22345X-2XXXX",
+			"whoCalledForIP":"Master Ross"
 		},{
 			"caseNo":"SC-909345-2023",
 			"accusedName":"Ma Wing Chun",
@@ -239,7 +294,12 @@
 			"courtEventTm":"10:35:00.00",
 			"courtNo":"Court 1B",
 			"assignedCourtLOs":"Officer 4",
-			"remarks":"remarksss"
+			"remarks":"remarksss",
+			"ipInDate":"10/12/2023",
+			"ipOutDate":"16/01/2024",
+			"holderOfIp":"Joe Jace",
+			"ipCalledFor":"IP-22345X-2XXXX",
+			"whoCalledForIP":"Master Ross"
 		},{
 			"caseNo":"SC-903916-2023",
 			"accusedName":"John Doe",
@@ -255,7 +315,12 @@
 			"courtEventTm":"15:00:00.00",
 			"courtNo":"Court 4A",
 			"assignedCourtLOs":"Officer 2",
-			"remarks":"LoremIpsum"
+			"remarks":"LoremIpsum",
+			"ipInDate":"10/12/2023",
+			"ipOutDate":"16/01/2024",
+			"holderOfIp":"Joe Jace",
+			"ipCalledFor":"IP-22345X-2XXXX",
+			"whoCalledForIP":"Master Ross"
 		}
 	]
 }
