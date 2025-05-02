@@ -1,0 +1,87 @@
+{
+	"associatedcase":[
+   		{
+			"highCourtCaseNo":"HC-902105-2025",
+			"accusedName":"John Doe",
+			"offenceType":"Littering",
+			"dateOfRemand":"08/08/2023",
+			"caseStatus":"Ongoing",
+			"delistMode":"",
+			"caseStatusDate":""
+		},
+		{
+			"highCourtCaseNo":"HC-905145-2023",
+			"accusedName":"Max Baxter",
+			"offenceType":"Kidnapping",
+			"dateOfRemand":"15/01/2022",
+			"caseStatus":"Delisted",
+			"delistMode":"By PTC",
+			"caseStatusDate":"09/01/2023"
+		},
+		{
+			"highCourtCaseNo":"HC-909345-2023",
+			"accusedName":"Ma Wing Chun",
+			"offenceType":"Assault",
+			"dateOfRemand":"09/08/2022",
+			"caseStatus":"Pending",
+			"delistMode":"",
+			"caseStatusDate":""
+		},{
+			"highCourtCaseNo":"HC-954145-2023",
+			"accusedName":"Rais Ruff",
+			"offenceType":"Riotting",
+			"dateOfRemand":"19/06/2023",
+			"caseStatus":"Delisted(DATA)",
+			"delistMode":"By way of Letter",
+			"caseStatusDate":"31/12/2023"
+		},{
+			"highCourtCaseNo":"HC-905902-2023",
+			"accusedName":"Kim Tae Soon",
+			"offenceType":"Shop Lifting",
+			"dateOfRemand":"14/01/2023",
+			"caseStatus":"Delisted(DNAQ)",
+			"delistMode":"By way of Letter",
+			"caseStatusDate":"21/01/2023"
+		},{
+			"highCourtCaseNo":"HC-815145-2023",
+			"accusedName":"Pat T.Hardt",
+			"offenceType":"Drugs Possession",
+			"dateOfRemand":"19/06/2023",
+			"caseStatus":"Ongoing",
+			"delistMode":"",
+			"caseStatusDate":""
+		},{
+			"highCourtCaseNo":"HC-939765-2023",
+			"accusedName":"Don Mario",
+			"offenceType":"Assault",
+			"dateOfRemand":"21/06/2021",
+			"caseStatus":"Ongoing",
+			"delistMode":"",
+			"caseStatusDate":""
+		},{
+			"highCourtCaseNo":"HC-909445-2023",
+			"accusedName":"Billy Tan",
+			"offenceType":"Shop Lifting",
+			"dateOfRemand":"02/01/2022",
+			"caseStatus":"Delisted",
+			"delistMode":"By way of Letter",
+			"caseStatusDate":"15/01/2023"
+		},{
+			"highCourtCaseNo":"HC-900945-2023",
+			"accusedName":"Mavin Mah",
+			"offenceType":"Littering",
+			"dateOfRemand":"22/11/2022",
+			"caseStatus":"Delisted(DATA)",
+			"delistMode":"By way of Letter",
+			"caseStatusDate":"23/11/2023"
+		},{
+			"highCourtCaseNo":"HC-993745-2023",
+			"accusedName":"Eric Masterson",
+			"offenceType":"Jaywalking",
+			"dateOfRemand":"01/01/2022",
+			"caseStatus":"Delisted(DNAQ)",
+			"delistMode":"By PTC",
+			"caseStatusDate":"13/11/2023"
+		}
+	]
+}
